@@ -49,8 +49,9 @@
 
 ## 📫 Me contacter
 
-📧 **Email :** bafadilkhitam@gmail.com  
-📸 **Instagram :** [@khitam._.bfd](https://www.instagram.com/khitam._.bfd?igsh=NDdsbXk4OHVjdm5z&utm_source=qr)
+[![Email](https://img.shields.io/badge/Email-bafadilkhitam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bafadilkhitam@gmail.com)
+[![Instagram](https://img.shields.io/badge/@khitam._.bfd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khitam._.bfd?igsh=NDdsbXk4OHVjdm5z&utm_source=qr)
+
 
 ---
 
